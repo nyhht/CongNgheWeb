@@ -1,8 +1,5 @@
 <?php
-/**
- *   - Kết nối tới CSDL MySQL bằng PDO
- *   - Được sử dụng chung cho tất cả bài
- */
+
 
 $host     = "localhost";
 $dbname   = "web2025_k65"; 
