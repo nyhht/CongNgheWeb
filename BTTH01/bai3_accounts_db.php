@@ -10,7 +10,7 @@ $headers = ['username','password','lastname','firstname','city','email','course1
 <html lang="vi">
 <head>
     <meta charset="utf-8">
-    <title>Danh sách tài khoản (CSDL)</title>
+    <title>Danh sách tài khoản (CSDL) </title>
     <style>
         table { border-collapse: collapse; width: 100%; font-size: 13px; }
         th, td { border: 1px solid #ccc; padding: 4px; }
