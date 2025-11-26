@@ -1,5 +1,5 @@
 <?php
-// upload_accounts.php
+
 require 'db.php';
 
 $message = '';
