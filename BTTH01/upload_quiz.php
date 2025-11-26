@@ -18,7 +18,7 @@ function importQuizFileToDb(PDO $pdo, $filepath) {
     $total = count($lines);
     $i = 0;
 
-    while ($i + 5 < $total) {  // mỗi câu 6 dòng
+    while ($i + 5 < $total) {  
         $q       = trim($lines[$i++]);
         $a       = trim($lines[$i++]);
         $b       = trim($lines[$i++]);
