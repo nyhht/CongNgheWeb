@@ -5,7 +5,7 @@ $flowers = require __DIR__ . '/flowers_data.php';
 <html lang="vi">
 <head>
     <meta charset="utf-8">
-    <title>14 loài hoa xuân – hè</title>
+    <title>14 loài hoa xuân – hè </title>
     <style>
         body { font-family: Arial, sans-serif; }
         .container { width: 1000px; margin: 0 auto; }
