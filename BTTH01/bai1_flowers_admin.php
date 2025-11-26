@@ -5,7 +5,7 @@ $flowers = require __DIR__ . '/flowers_data.php';
 <html lang="vi">
 <head>
     <meta charset="utf-8">
-    <title>Quản trị danh sách hoa (mảng)</title>
+    <title>Quản trị danh sách hoa </title>
     <style>
         table { border-collapse: collapse; width: 1000px; margin: 20px auto; }
         th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
