@@ -15,7 +15,7 @@ if (($handle = fopen($filename, 'r')) !== false) {
 <html lang="vi">
 <head>
     <meta charset="utf-8">
-    <title>Danh sách tài khoản (đọc từ CSV)</title>
+    <title>Danh sách tài khoản(đọc từ CSV)</title>
     <style>
         table { border-collapse: collapse; width: 100%; font-size: 13px; }
         th, td { border: 1px solid #ccc; padding: 4px; }
