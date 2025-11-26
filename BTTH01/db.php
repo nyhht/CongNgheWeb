@@ -1,7 +1,7 @@
 <?php
 /**
  *   - Kết nối tới CSDL MySQL bằng PDO
- *   - Được sử dụng chung cho tất cả bài:
+ *   - Được sử dụng chung cho tất cả bài
  */
 
 $host     = "localhost";
