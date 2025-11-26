@@ -54,7 +54,7 @@ $score = 0;
 <html lang="vi">
 <head>
     <meta charset="utf-8">
-    <title>Bài thi trắc nghiệm (đọc từ file)</title>
+    <title>Bài thi trắc nghiệm (đọc từ file) </title>
     <style>
         body { font-family: Arial; width: 900px; margin: 0 auto; }
         .question { border: 1px solid #ccc; padding: 10px; margin-bottom: 15px; }
