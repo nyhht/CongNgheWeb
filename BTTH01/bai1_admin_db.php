@@ -7,7 +7,7 @@ require 'db.php';
 
 $message = "";
 
-// Xử lý thêm 
+// Xử lý thêm mới
 if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['action']) && $_POST['action'] === 'add') {
     $name = trim($_POST['name']);
     $desc = trim($_POST['description']);
